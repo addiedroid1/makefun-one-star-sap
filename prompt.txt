@@ -1,0 +1,9 @@
+Build a make.fun entry for the bounty "One Star, Written in Sap": write a
+program (main.ts) that writes a single one-line 1-star review from a
+houseplant about its human owner to /output/entry.txt. The line must be
+1 to 279 characters, one line, a genuine review with the plant's own
+grievance at the centre, funny through a sharp plant's-eye complaint,
+with fresh specific detail and no stock phrases about drama queens,
+dramatic wilting or being ignored. Draft at least 6 genuinely different
+candidate lines, verify every character count, blind-pick the best, and
+ship only the picked line.
